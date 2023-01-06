@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1672980322 source:c:\users\user\documents\01 - if 45-6\smt 3\struktur data\tp\hello\tubes std sk coba\main.cpp
+	"tubesSK.h"
+	<iostream>
+	<cstdlib>
+
+1672981672 c:\users\user\documents\01 - if 45-6\smt 3\struktur data\tp\hello\tubes std sk coba\tubessk.h
+	<iostream>
+
+1672995910 source:c:\users\user\documents\01 - if 45-6\smt 3\struktur data\tp\hello\tubes std sk coba\tubessk.cpp
+	"tubesSK.h"
+
